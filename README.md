@@ -12,3 +12,7 @@
 - html 파일의 `<head>`...`</head>` 사이에 css 파일을 링크
 - ex) index.ht크l 파일의 `<head>`...`</head>` 사이에 style.css를 링크
 
+### CSS 기본 문법
+- selector { declaration }
+- selector { property  : value;}
+-   h1     { font-size :   30;}
