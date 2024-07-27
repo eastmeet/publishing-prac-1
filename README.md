@@ -1,5 +1,6 @@
 # publishing-prac-1
 
+## HTML (HyperText Mark-up Language)
 
 ## CSS (Cascading Style Sheets)
 - HTML 문서 내에 HTML 태그를 선택해서 디자인하고 배치하는 역할을 한다.
