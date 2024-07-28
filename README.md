@@ -1,5 +1,6 @@
 # publishing-prac-1
-
+- 코딩웍스 [웹 개발 풀스택 코스] HTML&CSS 기초
+- 생활코딩
 ## HTML (HyperText Mark-up Language)
 
 ## CSS (Cascading Style Sheets)
@@ -16,3 +17,5 @@
 - selector { declaration }
 - selector { property  : value;}
 -   h1     { font-size :   30;}
+![img.png](img.png)
+- 출처 : 코딩웍스
